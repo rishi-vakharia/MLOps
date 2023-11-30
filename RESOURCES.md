@@ -37,7 +37,7 @@ CONSUMER ANALYTICS DATASETS:
 * [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
   * [Example Kaggle Notebook](https://www.kaggle.com/code/thiagopanini/e-commerce-sentiment-analysis-eda-viz-nlp)
 * [Google Analytics Customer Revenue Prediction | Kaggle](https://www.kaggle.com/competitions/ga-customer-revenue-prediction)
-* [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-custo* mer-churn)
+* [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 * [Walmart Dataset](https://www.kaggle.com/datasets/yasserh/walmart-dataset)
 
 MLOPS TOOLS/TECH STACK: (todo)
